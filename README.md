@@ -1,7 +1,7 @@
 ![Hi, I'm Francisco](https://github.com/FranciscoDeville/franciscodeville/blob/main/assets/hi.gif)
 
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+Full Stack Developer from Argentina to :earth_americas:
 </h2>
 
 &nbsp;&nbsp;
@@ -11,16 +11,16 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/FranciscoDeville/franciscodeville/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
+  <code><img width="10%" height="50px" src="https://github.com/FranciscoDeville/franciscodeville/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/FranciscoDeville/franciscodeville/blob/main/logos/material-ui-1.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/FranciscoDeville/franciscodeville/blob/main/logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <br />
@@ -30,27 +30,27 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ## :pushpin: My proyects
 
+<h3>BusPack Travel</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(13).png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(14).png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(15).png"></a>
 </p>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(16).png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(17).png"></a>
 </p>
 
-<h3>Pedidotopia</h3>
+<h3>Encyclopedia of dog breeds</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/Encyclopedia%20of%20dog%20breeds/Captura%20de%20pantalla%20(18).png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/Encyclopedia%20of%20dog%20breeds/Captura%20de%20pantalla%20(19).png"></a>
+  <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/Encyclopedia%20of%20dog%20breeds/Captura%20de%20pantalla%20(20).png"></a>
 </p> 
 &nbsp;
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/francisco-deville/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:frandeville4@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="https://www.linkedin.com/in/francisco-deville/" ><img width="5%" src="https://github.com/FranciscoDeville/franciscodeville/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:frandeville4@gmail.com" ><img width="5%" src="https://github.com/FranciscoDeville/franciscodeville/blob/main/logos/gmail-icon%20green.png">
 </span>
