@@ -35,8 +35,6 @@ Full Stack Developer from Argentina to :earth_americas:
   <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(13).png"></a>
   <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(14).png"></a>
   <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(15).png"></a>
-</p>
-<p>
   <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(16).png"></a>
   <a><img src="https://github.com/FranciscoDeville/franciscodeville/blob/main/images/BusPack%20travel/Captura%20de%20pantalla%20(17).png"></a>
 </p>
