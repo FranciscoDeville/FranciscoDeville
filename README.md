@@ -6,6 +6,10 @@ Full Stack Developer from Argentina to :earth_americas:
 
 &nbsp;&nbsp;
 
+<p>
+  I'm 26 years old Argentinean. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new       technologies to exploit them. The  2022 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share   with you my skills. Welcome!!
+</p>
+
 
 ## :star: Languages and Tools:
 
